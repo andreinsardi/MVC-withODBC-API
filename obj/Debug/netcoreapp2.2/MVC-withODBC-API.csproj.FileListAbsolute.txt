@@ -1,0 +1,16 @@
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC-DotNetCore-API/Sample/MVC-withODBC-API/bin/Debug/netcoreapp2.2/MVC-withODBC-API.deps.json
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC-DotNetCore-API/Sample/MVC-withODBC-API/bin/Debug/netcoreapp2.2/MVC-withODBC-API.runtimeconfig.json
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC-DotNetCore-API/Sample/MVC-withODBC-API/bin/Debug/netcoreapp2.2/MVC-withODBC-API.runtimeconfig.dev.json
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC-DotNetCore-API/Sample/MVC-withODBC-API/bin/Debug/netcoreapp2.2/MVC-withODBC-API.dll
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC-DotNetCore-API/Sample/MVC-withODBC-API/bin/Debug/netcoreapp2.2/MVC-withODBC-API.pdb
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC-DotNetCore-API/Sample/MVC-withODBC-API/obj/Debug/netcoreapp2.2/MVC-withODBC-API.csprojAssemblyReference.cache
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC-DotNetCore-API/Sample/MVC-withODBC-API/obj/Debug/netcoreapp2.2/MVC-withODBC-API.RazorAssemblyInfo.cache
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC-DotNetCore-API/Sample/MVC-withODBC-API/obj/Debug/netcoreapp2.2/MVC-withODBC-API.RazorAssemblyInfo.cs
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC-DotNetCore-API/Sample/MVC-withODBC-API/obj/Debug/netcoreapp2.2/MVC-withODBC-API.AssemblyInfoInputs.cache
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC-DotNetCore-API/Sample/MVC-withODBC-API/obj/Debug/netcoreapp2.2/MVC-withODBC-API.AssemblyInfo.cs
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC-DotNetCore-API/Sample/MVC-withODBC-API/obj/Debug/netcoreapp2.2/MVC-withODBC-API.RazorTargetAssemblyInfo.cache
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC-DotNetCore-API/Sample/MVC-withODBC-API/obj/Debug/netcoreapp2.2/MVC-withODBC-API.dll
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC-DotNetCore-API/Sample/MVC-withODBC-API/obj/Debug/netcoreapp2.2/MVC-withODBC-API.pdb
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC-DotNetCore-API/Sample/MVC-withODBC-API/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC-DotNetCore-API/Sample/MVC-withODBC-API/bin/Debug/netcoreapp2.2/appsettings.json
+/Volumes/HDMemory-/source/ESPM/web-prog-exemplo/MVC-DotNetCore-API/Sample/MVC-withODBC-API/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
